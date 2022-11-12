@@ -1,7 +1,7 @@
-# Smartphone-Sales-Forecast
+# Smartphone Sales Forecast
 ## 1. Objective
   - Smartphone sales prediction using historical smartphone sales data
-  - When testing, the length of the time sequence of the input can vary (from zero month to any months)
+  - When testing, the length of the time sequence of the input can vary (from zero month to any month)
   
 ## 2. Model
   - Smartphone Spec AutoEncoder  
