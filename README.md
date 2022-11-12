@@ -13,5 +13,7 @@
   
   - Time sequence generation model applying the concept of CharRNN  
     - This model dynamically generates time series by taking advantage of the dataset structure below 
+      ![image](https://user-images.githubusercontent.com/13309017/201481240-69497e23-7626-4550-9af2-5f5a5334569f.png)
+
     - Architecture  
-  ![image](https://user-images.githubusercontent.com/13309017/198940558-9d3a8593-ca5d-49b0-aa33-1c9e0e158760.png)
+      ![image](https://user-images.githubusercontent.com/13309017/201481260-b3bd2e21-f374-47e2-877f-d07a89c2a2aa.png)
